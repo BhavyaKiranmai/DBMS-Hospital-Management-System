@@ -1,0 +1,1 @@
+-- SQL commands for creating Hospital Management System tables
