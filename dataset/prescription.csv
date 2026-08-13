@@ -1,0 +1,9 @@
+Prescription_ID,Patient_ID,Doctor_ID,Medicine,Dosage,Date
+PR001,P001,D001,Amlodipine,5 mg once daily,2026-08-15
+PR002,P002,D002,Cetirizine,10 mg once daily,2026-08-15
+PR003,P003,D003,Sumatriptan,50 mg as needed,2026-08-16
+PR004,P004,D004,Paracetamol,500 mg twice daily,2026-08-16
+PR005,P005,D005,Paracetamol,500 mg as needed,2026-08-17
+PR006,P006,D001,Metoprolol,25 mg once daily,2026-08-17
+PR007,P007,D003,Ibuprofen,400 mg twice daily,2026-08-18
+PR008,P008,D002,Hydrocortisone Cream,Apply twice daily,2026-08-18

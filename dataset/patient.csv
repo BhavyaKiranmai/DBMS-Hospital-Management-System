@@ -1,0 +1,11 @@
+Patient_ID,Name,Age,Gender,Phone,Address
+P001,Ravi Kumar,35,Male,9876500001,Kakinada
+P002,Anjali Rao,28,Female,9876500002,Vijayawada
+P003,Suresh Reddy,52,Male,9876500003,Rajahmundry
+P004,Priya Sharma,41,Female,9876500004,Visakhapatnam
+P005,Arjun Patel,23,Male,9876500005,Guntur
+P006,Meena Devi,60,Female,9876500006,Kakinada
+P007,Rahul Verma,47,Male,9876500007,Hyderabad
+P008,Kavya Singh,31,Female,9876500008,Vijayawada
+P009,Vikram Rao,66,Male,9876500009,Rajahmundry
+P010,Neha Reddy,38,Female,9876500010,Visakhapatnam

@@ -1,0 +1,6 @@
+Doctor_ID,Name,Specialization,Phone,Department_ID
+D001,Dr. Arun Kumar,Cardiologist,9876510001,DEP001
+D002,Dr. Priya Rao,Dermatologist,9876510002,DEP002
+D003,Dr. Kiran Reddy,Neurologist,9876510003,DEP003
+D004,Dr. Sneha Sharma,Orthopedic Surgeon,9876510004,DEP004
+D005,Dr. Manoj Verma,General Physician,9876510005,DEP005

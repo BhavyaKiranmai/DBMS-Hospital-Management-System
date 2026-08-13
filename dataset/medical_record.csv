@@ -1,0 +1,9 @@
+Record_ID,Patient_ID,Doctor_ID,Diagnosis,Treatment,Record_Date
+MR001,P001,D001,Hypertension,Medication and lifestyle advice,2026-08-15
+MR002,P002,D002,Skin Allergy,Topical treatment,2026-08-15
+MR003,P003,D003,Migraine,Medication and follow-up,2026-08-16
+MR004,P004,D004,Knee Pain,Physiotherapy and medication,2026-08-16
+MR005,P005,D005,Fever,Medication and rest,2026-08-17
+MR006,P006,D001,Arrhythmia,Cardiac evaluation,2026-08-17
+MR007,P007,D003,Back Pain,Medication and physiotherapy,2026-08-18
+MR008,P008,D002,Eczema,Topical treatment,2026-08-18

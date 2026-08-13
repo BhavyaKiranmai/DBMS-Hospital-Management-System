@@ -1,0 +1,9 @@
+Room_ID,Room_Type,Bed_Number,Availability
+R001,General,101,Available
+R002,General,102,Occupied
+R003,Semi-Private,201,Available
+R004,Private,202,Occupied
+R005,ICU,301,Available
+R006,ICU,302,Occupied
+R007,Emergency,401,Available
+R008,Emergency,402,Occupied
